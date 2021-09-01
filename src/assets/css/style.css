@@ -1,0 +1,65 @@
+
+*{
+  margin: 0;
+  padding: 0;  
+}
+
+.container{
+    width: 380px;
+    height: 400px;
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid white;
+    border-radius: 5%;
+    margin-top: 11.5%;
+    margin-left: 38%;   
+}
+
+.signin{
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.input{
+    background-color: inherit;
+    border: none;
+    border-bottom: 2px solid white;
+    margin-top: 30px;   
+    width: 330px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.btn{
+    width: 330px;
+    height: 40px;
+    margin: 20px 0 30px 0;
+    background: limegreen;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.help{
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+
+.check{
+    color: white;
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;     
+}
+
+span{
+    padding-right: 35px;
+}
