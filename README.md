@@ -26,4 +26,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-#### Project not completed still to connect Vue to PHP using axios, contributions are welcomed.
+#### 
